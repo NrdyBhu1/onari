@@ -1,0 +1,10 @@
+#+title:    README
+#+author:   NrdyBhu1
+#+date:     2022-08-30
+
+* What's this?
+A simple godot-rust example I made for myself
+
+** Note
+      + Development was done on nix and might not work on other os
+      + =shell.nix= replace the glibc with your glibc headers folder
